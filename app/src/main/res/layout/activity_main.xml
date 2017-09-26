@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.demo.customviewdemo.MainActivity">
+
+    <com.demo.view.FireView
+        android:id="@+id/fireView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:firecolor1="#e93d16"
+        app:firecolor2="#e9bb16"
+        app:firecolor3="#16e98e"
+        app:firecolor4="#dd250f"
+        app:firecolor5="#f0069e"
+        app:firecount="500"
+        />
+
+</android.support.constraint.ConstraintLayout>

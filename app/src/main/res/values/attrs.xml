@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="FireView">
+        <attr name="firecount" format="integer"/>
+        <attr name="firecolor1" format="color"/>
+        <attr name="firecolor2" format="color"/>
+        <attr name="firecolor3" format="color"/>
+        <attr name="firecolor4" format="color"/>
+        <attr name="firecolor5" format="color"/>
+    </declare-styleable>
+</resources>
