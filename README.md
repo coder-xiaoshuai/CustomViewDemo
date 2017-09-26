@@ -1,0 +1,2 @@
+# CustomViewDemo
+该项目主要是通过kotlin实现了一个自定义view，主要是为了熟悉kotlin语法，感兴趣的可以看一下
